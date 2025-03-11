@@ -9,27 +9,6 @@
 - Interactive CLI with simple commands to navigate and manage bookmarks
 - View and open bookmarks directly from the command line
 
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/BookMarkIt.git
-   cd BookMarkIt
-
- BookMarkIt
-
-**BookMarkIt** is a simple, efficient command-line tool to organize and manage your bookmarks. With **BookMarkIt**, you can store bookmarks across various collections such as **work**, **personal**, or any custom collections you create. Add, modify, delete, and view your bookmarks—all from an interactive CLI interface.
-
-## Features:
-- Add, modify, delete, and view bookmarks
-- Organize bookmarks in multiple collections
-- Automatically creates default collections: **work** and **personal** on first run
-- Interactive CLI with simple commands to navigate and manage bookmarks
-- View and open bookmarks directly from the command line
-
-## Installation
-
 1. Clone the repository:
 
    ```bash
